@@ -1,0 +1,41 @@
+body{
+background-color: #000000 ;
+}
+
+.titulo1{
+text-align: center;
+color:white;
+}
+
+
+.titulo2{
+    color:white;
+    text-align: center;
+}
+
+.texto{
+    color:white;
+}
+
+.lixos{
+    color:white;
+}
+
+.socorro{
+    color:white;
+    display: inline;
+}
+
+.foto1{
+    width: 25%;
+}
+
+.tiposdelixo{
+    color:white;
+}
+
+.ostipos{
+    color:white;
+}
+
+
